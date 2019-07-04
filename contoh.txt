@@ -1,0 +1,11 @@
+Stadium (String) - The name of the stadium
+Capacity (Int) - The capacity of the stadium
+ExpandedCapacity (Int) - The expanded capacity of the stadium
+Location (String) - The location of the stadium
+PlayingSurface (String) - The type of grass, etc that the stadium has
+IsArtificial (Boolean) - Is the playing surface artificial
+Team (String) - The name of the team that plays at the stadium
+Opened (Int) - The year the stadium opened
+WeatherStation (String) - The name of the weather station closest to the stadium
+RoofType (Possible Values:None,Retractable,Dome) - The type of roof in the stadium
+Elevation - The elevation of the stadium
